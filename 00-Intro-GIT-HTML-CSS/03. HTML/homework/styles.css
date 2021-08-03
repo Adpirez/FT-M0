@@ -4,12 +4,9 @@ img {
 #thirdDiv {
     height: 600px;
     width: 500px;
-    background-color: mediumturquoise;
+    background-color: rgb(255, 225, 225);
     padding: 50px;
-    border: 2px slateblue;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    border: 4px solid slateblue;
 }
 #spanId {
     font-size: 18px;
@@ -17,5 +14,7 @@ img {
 }
 body {
     background-image: url("https://store-images.s-microsoft.com/image/apps.26639.14442254729118049.2aaf87f7-e16e-4412-ba7b-1ac1ce7916de.3a559535-9bd8-4ff1-a56e-36c1b3b2f32d?mode=scale&q=90&h=1080&w=1920");
-    align-items: center;
+}
+h1 {
+    color: aliceblue;
 }
